@@ -5,11 +5,6 @@
 
 function somar(a, b) {
   let resultado = a + b;
-<<<<<<< HEAD
-
-=======
-  b = 0
->>>>>>> 756193860703ac07bc93a07cbeff192cdf1d7ce4
   return resultado;
 }
 

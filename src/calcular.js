@@ -10,7 +10,6 @@
 // - Executar a operação correta e retornar o resultado;
 
 function calcular(num1, num2, operador) {
-<<<<<<< HEAD
   let resultado
 
   if (operador === "+"){
@@ -50,20 +49,5 @@ function calcular(num1, num2, operador) {
     //     break;
     //   case   
     // }
-=======
-  if (a || b == NaN) {
-    return "Erro: parâmetros inválidos"
-  }
-  if (a || b == 0) {
-    return "Erro: divisão por zero"
-  }
-  if (a || b == "") {
-    return "Erro: operação inválida"
-  }
-}
-
-
-
->>>>>>> 756193860703ac07bc93a07cbeff192cdf1d7ce4
 //NÃO REMOVA O CÓDIGO ABAIXO
 module.exports = { calcular };
